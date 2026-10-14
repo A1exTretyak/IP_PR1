@@ -1,0 +1,54 @@
+h1 {
+    font-size: 32px; 
+    font-weight: bold; 
+    font-family: Arial, sans-serif;
+}
+
+
+.cursive {
+    font-style: italic;
+}
+
+
+.line-height {
+    line-height: 2.5; 
+    font-family: serif;
+}
+
+
+.letter-spacing {
+    letter-spacing: 3px;
+    font-family: serif;
+}
+
+
+.monospace {
+    font-family: "Courier New", Courier, monospace;
+}
+
+
+.align-right {
+    text-align: right;
+    font-family: serif;
+}
+
+
+.strike {
+    text-decoration: line-through;
+}
+.underline {
+    text-decoration: underline;
+}
+.overline {
+    text-decoration: overline;
+}
+
+
+.uppercase {
+    text-transform: uppercase;
+}
+
+
+.square-list {
+    list-style-type: square; 
+}
